@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: #000000;
+  font-family: 'Tapestry', cursive; }
+
+.navbar-nav a {
+  color: #d44a18; }
+  .navbar-nav a:hover {
+    color: #15089f; }
+
+.container h1 {
+  color: #e80606; }
+
+.tittle2 {
+  color: #e80606; }
+
+.buttom:hover {
+  background-color: #15089f; }

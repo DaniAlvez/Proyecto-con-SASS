@@ -1,0 +1,8 @@
+.navbar-nav{
+    & a{
+        color: $text;
+        &:hover{
+            color: $texthover;
+        }
+    }
+}
