@@ -1,5 +1,5 @@
 .container{
     h1{
-        color: $texttittle;
+        @include colores ($texttittle);
     }
 }
